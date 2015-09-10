@@ -1,0 +1,140 @@
+h1
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+	color: brown;
+	font-family: "Trebuchet MS";
+	margin-left: -2500px;	
+	position: absolute;
+}
+
+h2
+{
+	font-size: 20px;
+	font-family: "Trebuchet MS" ;
+	color: indigo;
+}
+
+div {  
+    display : inline-block;
+}
+
+#google
+{
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: "Trebuchet MS" ;
+    margin-left : 500px;
+    margin-top : 100px;
+    position: relative;
+}
+
+#o,#O,#G,#l,#e
+{
+	margin-left: -15px; 
+}
+
+.fb_box
+{
+	height: 30px;
+	width: 300px;
+	margin-left: 470px;
+	margin-top: 30px;
+	background: pink;
+}
+
+#fb_button
+{
+    height: 30px;
+    width: 150px;
+    color: white;
+    margin-left : 550px ;
+    margin-top : 20px;
+    background: blue;
+}
+
+.search_box
+{
+    height: 22px;
+    width : 300px;
+    margin-left: 450px;
+    margin-top: 80px;
+    background: pink;
+}
+
+#search
+{
+	position: relative;
+	visibility: hidden;
+}
+
+#search_button
+{
+    height: 30px;
+    width: 150px;
+    color: red;
+    margin-top: 15px;
+    margin-left : 530px ;
+    position: relative;
+    bottom: 0;
+    background: blue;
+    color: white;
+}
+
+body
+{
+    background : cyan;
+}
+
+#new_appended_1
+{
+	font-weight: bold;
+	font-size: 30px;
+	font-family: "Trebuchet MS" ;
+	color: red;
+	position: relative;
+}
+
+#new_appended_2
+{
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	margin-top: -90px;
+	margin-bottom: 0px;
+	position: fixed;
+	border: 2px solid black;
+}
+
+#doubt
+{
+	font-style: italic;
+	font-size: 15px;
+	margin-left: 400px;
+	color: red;	
+}
+
+#doubt_button
+{
+	color: white;
+	background: green;
+}
+
+#last_line
+{
+	font-family: "Trebuchet MS";
+	font-size: 15px;
+	font-style: italic;
+    position: absolute;
+    bottom: 0;
+}
+
+#dial
+{
+	border: 2px solid red;
+	background: brown;
+	font-size: 20px;
+	color: red;
+
+}
