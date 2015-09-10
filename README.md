@@ -1,2 +1,1 @@
-# Google_clone_page
-# Google_clone_page
+This is simple implementation of a jquery-ui plugin. It is an interactive page that fetches your FB Profile image from your FB user name. Do notice that the colours in the google logo change on every refresh. Then you can search for a query and it shows up the search results in a new tab. It uses the google search engine.
